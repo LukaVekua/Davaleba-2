@@ -1,0 +1,21 @@
+p.wertilovani {border-style: dotted; border-color:turquoise;border-width:5px;}
+
+p.dashed {border-style:dashed ; border-color:turquoise; border-width:5px;}
+
+p.solid {border-style: solid; border-color:turquoise;border-width:5px;}
+
+p.double {border-style: double; border-color:turquoise;border-width:5px;}
+
+p.groove {border-style: groove;  border-color:turquoise;border-width:5px;}
+
+p.ridge {border-style: ridge;  border-color:turquoise;border-width:5px;}
+
+p.inset {border-style: inset;  border-color:turquoise;border-width:5px;}
+
+p.outset {border-style: outset;  border-color:turquoise;border-width:5px;}
+
+p.none {border-style: none;  border-color:turquoise;border-width:5px;}
+
+p.hidden {border-style: hidden;  border-color:turquoise;border-width:5px;}
+
+p.mix {border-style: dotted dashed solid double;  border-color:turquoise;border-width:5px;}

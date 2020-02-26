@@ -1,0 +1,30 @@
+.corner1{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 30px;
+    background-color:darkred;
+    width:200px;
+    height:150px;
+}
+.corner2{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 30px;
+    background-color:darkred;
+    width:200px;
+    height:150px; 
+}
+.corner3{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 15px;
+    background-color:darkred;
+    width:200px;
+    height:150px; 
+
+}
+
+

@@ -1,0 +1,17 @@
+hr{
+    border-width:2px;border-color:black;
+}
+
+.teqsti1{
+    font-size:40px;line-height:0.5;
+}
+
+.teqsti2{
+    font-size:30px;line-height:3.5;
+    text-decoration: line-through; 
+}
+
+.teqsti3{
+    font-size:25px;line-height:0.5;
+    text-decoration:underline;
+}
